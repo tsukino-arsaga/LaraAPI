@@ -1,0 +1,2 @@
+# LaraAPI
+Sample API.
